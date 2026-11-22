@@ -3,7 +3,7 @@
 OncoLens is a group-built, educational web application for exploring machine-learning classification of breast tumors as **malignant** or **benign**. The team combines model development and evaluation with a React-based prediction and analytics interface. It uses the Wisconsin Breast Cancer Diagnostic Dataset and runs trained ONNX models in the browser. **This project is an academic demonstration, not a clinical diagnostic tool.**
 
 **Live web app:** [https://oncolenz.netlify.app/](https://oncolenz.netlify.app/)  
-**Android app:** The Android application will be published in this repository's [Releases](https://github.com/skmqs/OncoLens/releases) section.
+**Android app:** Additionally the Android application is published in this repository's [Releases](https://github.com/skmqs/OncoLens/releases) section.
 
 ## Project objectives
 
@@ -82,7 +82,7 @@ Predictions are performed in the browser using `src/utils/onnxInference.js` and 
 │   ├── hooks/
 │   ├── pages/
 │   └── utils/
-├── Shadeed/                 # Application contribution documentation/copies
+├── Shadeed/                 # Frontend & Inference contribution documentation/copies
 ├── Abdul Hakim Zain/        # ML engineering contribution documentation/copies
 ├── Umme Haney Jarin/        # Research/testing contribution documentation/copies
 ├── index.html
